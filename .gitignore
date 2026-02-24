@@ -1,0 +1,8 @@
+# Ignore non-submission files
+msft_output/
+10K_Extraction_Test.pdf
+XAUUSD.xls
+__pycache__/
+*.pyc
+debug_*
+read_debug.py
